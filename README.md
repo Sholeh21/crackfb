@@ -12,6 +12,6 @@ cd crackfb
 
 python shole.py
 
-
+git pull
 
 Crack fb hasil ijo ijo kek janda mu
