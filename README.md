@@ -1,17 +1,32 @@
-# crackfb
+# crackIg
 
 
 
-git clone https://github.com/Sholeh21/crackfb
 
+$ pkg update && pkg upgrade
 
+$ pkg install python
 
-cd crackfb
+$ pkg install cython
 
+$ pip install bs4
 
+$ pkg install audio play
 
-python shole.py
+$ pip install requests
 
-git pull
+$ pip install mechanize
 
-Crack fb hasil ijo ijo kek janda mu
+$ pip install stdiomask
+
+$ pip install tqdm
+
+$ pip install rich
+
+$ pkg install git
+
+$ git clone https://github.com/CodeXz01/IG01
+
+$ cd IG01
+
+$ python run.py
